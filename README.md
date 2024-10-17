@@ -6,9 +6,11 @@ Complaint User:
 
 Provides a complaint interface where users can submit their electrical queries and complaints.
 Generates a unique token number for each complaint submitted for easy tracking.
+
 Login User:
 
 Allows registered users to log into the system to access their account and view the status of their submitted complaints.
+
 View Admin:
 
 Enables administrators to log into the system and view the list of user complaints.
@@ -17,6 +19,7 @@ Provides administrators with the necessary tools to efficiently manage and resol
 Login Admin:
 
 Allows registered administrators to log into the system to access their account and perform administrative tasks.
+
 View Entry of Solutions:
 
 Provides administrators with a dedicated interface to enter and store solutions for user queries.
